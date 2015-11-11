@@ -1,0 +1,10 @@
+{
+	"name": "Sodium Hypochlorite",
+	"description": "A website with tons of info about Sodium Hypochlorite",
+	"version": "0.0.0",
+	"dependencies": {
+		"waypoints": "*",
+		"fabric": "*",
+		"jquery": "*"
+	}
+}
